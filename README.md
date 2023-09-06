@@ -1,4 +1,4 @@
 # myfirst-project
-This is my first Git Repository
-Author-Dipak Mall
+This is my first Git Repository <br>
+Author-Dipak Mall <br>
 Developer-Javascript
